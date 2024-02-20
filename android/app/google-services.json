@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262100753337",
+    "project_id": "edukasii-m-y",
+    "storage_bucket": "edukasii-m-y.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262100753337:android:b251b901216b736a9bf468",
+        "android_client_info": {
+          "package_name": "com.example.sipo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1t-kH8GdkK_X8Hl3UvYpO9fGoc1Ti5N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
